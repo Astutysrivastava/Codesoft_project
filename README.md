@@ -1,0 +1,2 @@
+# Codesoft_project
+Task 1 - TO - DO LIST    TASK 2 - CALCULATOR     TASK 3 - PASSWORD GENERATOR       TASK4 - ROCK PAPER SCISSORS GAME                    TASK5 - CONTACT BOOK
